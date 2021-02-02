@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/IMAGES/soothing\ bg.jpg);
+    background-repeat: round;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 60px;
+    padding-left: 40%;
+}
+h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 2%;
+}
+h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 2%;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    padding-left: 2%;
+    padding-right: 2%;
+}
+img{
+    margin-left: 5%;
+    height:300px;
+    border: 2px solid rgb(141, 127, 127);
+
+}
+ /* footer h6{ */
+/* text-align: center; */
+/* padding-top: 5px; */

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+
+  background-image: url(/IMAGES/pattern\ tourism.jpg);;
+  
+  background-repeat: repeat;
+
+}
+#heading{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 25px;
+  margin-left: 40%;
+}
+.districts a{
+  float:initial;
+
+margin-left: 46%;
+text-decoration: none;
+color: rgb(4, 3, 14);
+text-align: center;
+border:  1px solid rgb(22, 22, 21);
+padding: 2px;
+padding-left: 12px;
+padding-right: 12px;
+}
+a:hover{
+  color: firebrick;
+  background-color:rgba(124, 196, 206, 0.541);
+  
+}
+.districts img{
+  border: 2px solid rgb(141, 127, 127);
+  margin-left: 30%;
+  margin-bottom: 70px;
+  margin-right: 30px;
+
+}
+img:hover{
+  opacity: 0.6;
+}
+.container{
+  
+  margin-left:8%;
+  width: 100%;
+}
+.p-box{
+  float: left;
+}
+

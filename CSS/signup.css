@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+background-image: url(/IMAGES/fishing\ child.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+                
+   }
+.margin{
+
+margin-top: 100px;
+margin-left: 30%;
+       }  
+      

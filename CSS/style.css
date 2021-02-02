@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+    /* Navigation bar */
+    .container h3{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(153, 161, 139);
+    margin-right: 400px;}
+
+    /* navigation bar 2 */
+    .container-fluid{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    /* carousal */
+    .mymargin{
+        margin-top: 0.5px;
+    }
+    footer{
+        background-color: rgb(143, 194, 168);
+        margin-bottom: 0px;
+        margin-top: 3px;
+        height:9em;
+    }
+    footer h6{
+        text-align: center;
+        padding-top: 5px;
+    }
+    footer p{
+        text-align: center;
+    }
+    footer a{
+        margin-left: 46.5%;
+    }
+    a:hover{
+        color: rgb(241, 86, 86);
+        background-color:rgba(206, 241, 240, 0.363);
+        
+      }
+
+

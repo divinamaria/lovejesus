@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/IMAGES/kerala-honeymoon.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.margin{
+
+    margin-top: 200px;
+    margin-left: 38%;
+    
+}
+
